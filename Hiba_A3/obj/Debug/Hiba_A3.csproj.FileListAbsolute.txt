@@ -1,0 +1,8 @@
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_A3\Hiba_A3\obj\Debug\Hiba_A3.csproj.AssemblyReference.cache
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_A3\Hiba_A3\obj\Debug\Hiba_A3.csproj.SuggestedBindingRedirects.cache
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_A3\Hiba_A3\obj\Debug\Hiba_A3.csproj.CoreCompileInputs.cache
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_A3\Hiba_A3\bin\Debug\Hiba_A3.exe.config
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_A3\Hiba_A3\bin\Debug\Hiba_A3.exe
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_A3\Hiba_A3\bin\Debug\Hiba_A3.pdb
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_A3\Hiba_A3\obj\Debug\Hiba_A3.exe
+C:\Users\hhiba\OneDrive\Documents\programming 2\.vs\Hiba_A3\Hiba_A3\obj\Debug\Hiba_A3.pdb
